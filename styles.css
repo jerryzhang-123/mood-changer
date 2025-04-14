@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(241, 246, 247);
+  }
+  h1{color:rgba(3, 14, 3, 0);
+   text-align:center;}
+  p{font-size:16px;}
+  img{width:250px;
+    border:3px solid black;
+    border-radius: 10px;}
+  video{width:250px}
+  ul, ol{margin-left:20px}
+  #main-title{
+    color:rgb(11, 11, 16);
+    font-size:50px
+  }
+  a:hover{color:red;text-decoration: underline;}
+  img:hover{opacity:0.7}
+  h5{margin-left:20px}
+  img {
+    visibility: hidden;
+  }
